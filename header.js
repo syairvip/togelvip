@@ -4,7 +4,7 @@ _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
 var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//cdn.statically.io/gh/syairvip/togelvip/main/js15_as.js');
+hs.src = ('//rawcdn.githack.com/syairvip/togelvip/c41e48369092b673ba23dce983ab5a28272af901/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
